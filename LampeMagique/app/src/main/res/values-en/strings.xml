@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MagicLamp</string>
+    <string name="rougePlus">+RED</string>
+    <string name="rougeMoins">-RED</string>
+    <string name="vertPlus">+GREEN</string>
+    <string name="vertMoins">-GREEN</string>
+    <string name="bleuPlus">+BLUE</string>
+    <string name="bleuMoins">-BLUE</string>
+    <string name="rouge_bleu_vert">R: 255, G: 0, B: 0</string>
+    <string name="rouge">RED</string>
+    <string name="vert">GREEN</string>
+    <string name="bleu">BLUE</string>
+    <string name="couleur_initiale">Initial Color ?</string>
+    <string name="auteur">Author : Esteban Dubois</string>
+    <string name="nomApplication">MagicLamp</string>
+
+</resources>

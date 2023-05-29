@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LampeMagique</string>
+    <string name="rougePlus">+ROUGE</string>
+    <string name="rougeMoins">-ROUGE</string>
+    <string name="vertPlus">+VERT</string>
+    <string name="vertMoins">-VERT</string>
+    <string name="bleuPlus">+BLEU</string>
+    <string name="bleuMoins">-BLEU</string>
+    <string name="rouge_bleu_vert">R: 255, G: 0, B: 0</string>
+    <string name="rouge">ROUGE</string>
+    <string name="vert">VERT</string>
+    <string name="bleu">BLEU</string>
+    <string name="couleur_initiale">Couleur Initiale ?</string>
+    <string name="auteur">Auteur : Esteban Dubois</string>
+    <string name="nomApplication">Lampe Magique</string>
+
+</resources>
